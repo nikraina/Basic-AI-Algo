@@ -1,6 +1,4 @@
 /*      Name:: Nikhil Raina
-        UnityID :: nraina
-        StudentID:: 200105282
 */
 #include<iostream>
 #include<string>
